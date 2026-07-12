@@ -1,0 +1,66 @@
+---
+layout: default
+---
+<article>
+  <h1>{{ page.title }}</h1>
+
+  {% if page.youtube_url %}
+  <p class="watch">▶ <a href="{{ page.youtube_url }}">Watch on YouTube</a>{% if page.exam %} <span class="meta">· {{ page.exam }}</span>{% endif %}</p>
+  {% endif %}
+
+  {% if page.quick_answer %}
+  <section class="quick-answer">
+    <h2>Quick answer</h2>
+    {{ page.quick_answer | markdownify }}
+  </section>
+  {% endif %}
+
+  {{ content }}
+
+  {% if page.faq %}
+  <section class="faq">
+    <h2>Frequently asked</h2>
+    {% for item in page.faq %}
+    <h3>{{ item.q }}</h3>
+    <div>{{ item.a | markdownify }}</div>
+    {% endfor %}
+  </section>
+  {% endif %}
+
+  {% if page.sources %}
+  <section class="sources">
+    <h2>Sources</h2>
+    <ul>{% for s in page.sources %}<li>{{ s | markdownify | remove: '<p>' | remove: '</p>' }}</li>{% endfor %}</ul>
+  </section>
+  {% endif %}
+</article>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "VideoObject",
+      "name": {{ page.title | jsonify }},
+      "description": {{ page.description | default: site.description | strip_newlines | jsonify }},
+      "author": { "@type": "Person", "name": {{ site.author | jsonify }} },
+      "publisher": { "@type": "Organization", "name": {{ site.title | jsonify }} }{% if page.video_id %},
+      "embedUrl": "https://www.youtube.com/embed/{{ page.video_id }}",
+      "thumbnailUrl": "https://i.ytimg.com/vi/{{ page.video_id }}/hqdefault.jpg",
+      "url": {{ page.youtube_url | jsonify }}{% endif %}{% if page.upload_date %},
+      "uploadDate": {{ page.upload_date | jsonify }}{% endif %}{% if page.duration %},
+      "duration": {{ page.duration | jsonify }}{% endif %}
+    }{% if page.faq %},
+    {
+      "@type": "FAQPage",
+      "mainEntity": [{% for item in page.faq %}
+        {
+          "@type": "Question",
+          "name": {{ item.q | jsonify }},
+          "acceptedAnswer": { "@type": "Answer", "text": {{ item.a | markdownify | strip_html | strip_newlines | jsonify }} }
+        }{% unless forloop.last %},{% endunless %}{% endfor %}
+      ]
+    }{% endif %}
+  ]
+}
+</script>

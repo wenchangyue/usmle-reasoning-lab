@@ -1,0 +1,24 @@
+title: USMLE Reasoning Lab
+description: >-
+  Companion transcripts, quick answers, and Q&A for USMLE Reasoning Lab —
+  original USMLE teaching questions worked one clue at a time.
+author: Wenchang Yue, MD, PhD
+lang: en
+url: "https://wenchangyue.github.io"
+baseurl: "/usmle-reasoning-lab"
+
+collections:
+  episodes:
+    output: true
+    permalink: /ep/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: episodes
+    values:
+      layout: episode
+
+exclude:
+  - README.md
+  - TEMPLATE-episode.md
