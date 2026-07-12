@@ -8,7 +8,7 @@ description: >-
 # USMLE Reasoning Lab — companion notes
 
 Full **transcripts**, a one-line **quick answer**, and a **Q&A** for every video on
-the [USMLE Reasoning Lab](https://www.youtube.com/@) channel. Each page mirrors the
+the [USMLE Reasoning Lab](https://www.youtube.com/@USMLEReasoningLab) channel. Each page mirrors the
 episode so you can read, search, and quote it — original teaching questions worked
 one clue at a time.
 

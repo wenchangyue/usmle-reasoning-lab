@@ -1,7 +1,7 @@
 # USMLE Reasoning Lab — companion site
 
 Public, crawlable companion pages (transcript + quick answer + Q&A) for every
-[USMLE Reasoning Lab](https://www.youtube.com/) video. This is the **GEO
+[USMLE Reasoning Lab](https://www.youtube.com/@USMLEReasoningLab) video. This is the **GEO
 (Generative Engine Optimization)** surface: AI answer engines (ChatGPT, Perplexity,
 Google AI Overviews) read the **text around a video** — so we host the transcript
 and a structured Q&A here, on an open page we own, and link it from each video
