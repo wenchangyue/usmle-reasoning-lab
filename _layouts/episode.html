@@ -4,6 +4,8 @@ layout: default
 <article>
   <h1>{{ page.title }}</h1>
 
+  <p class="meta">{% if page.exam %}{{ page.exam }}{% endif %}{% if page.upload_date %} · Published {{ page.upload_date }}{% endif %}{% if page.reviewed_date %} · Reviewed {{ page.reviewed_date }}{% endif %}</p>
+
   {% if page.youtube_url %}
   <p class="watch">▶ <a href="{{ page.youtube_url }}">Watch on YouTube</a>{% if page.exam %} <span class="meta">· {{ page.exam }}</span>{% endif %}</p>
   {% endif %}
@@ -50,6 +52,17 @@ layout: default
       "url": {{ page.youtube_url | jsonify }}{% endif %}{% if page.upload_date %},
       "uploadDate": {{ page.upload_date | jsonify }}{% endif %}{% if page.duration %},
       "duration": {{ page.duration | jsonify }}{% endif %}
+    },
+    {
+      "@type": "MedicalWebPage",
+      "headline": {{ page.title | jsonify }},
+      "description": {{ page.description | default: site.description | strip_newlines | jsonify }},
+      "url": {{ page.url | absolute_url | jsonify }},
+      "inLanguage": "en",
+      "about": {{ page.exam | default: "medical education" | jsonify }},
+      "author": { "@type": "Person", "name": {{ site.author | jsonify }} }{% if page.upload_date %},
+      "datePublished": {{ page.upload_date | jsonify }}{% endif %}{% if page.reviewed_date %},
+      "dateModified": {{ page.reviewed_date | jsonify }}{% endif %}
     }{% if page.faq %},
     {
       "@type": "FAQPage",
