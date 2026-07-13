@@ -1,0 +1,140 @@
+{
+  "episodes": [
+    {
+      "slug": "exam-strategy-principles",
+      "visibility": "public",
+      "rights_cleared": true,
+      "medical_qa": "pass",
+      "captions_reviewed": true,
+      "caption_source": "episodes/review/exam-strategy-principles/remotion_colored_captions.srt",
+      "title": "USMLE Best Next Step: Choose the Answer That Fits the Situation",
+      "exam": "USMLE / shelf-style clinical reasoning",
+      "description": "A structured way to answer best-next-step questions by identifying the task, setting, stability, and stage of care before choosing an option.",
+      "video_id": "MziUr__cZnw",
+      "youtube_url": "https://youtu.be/MziUr__cZnw",
+      "upload_date": "2026-07-05",
+      "reviewed_date": "2026-07-13",
+      "duration": "PT12M18S",
+      "quick_answer": "For a best-next-step question, identify the task, read the stem as one clinical story, determine the setting and stability, locate the current stage of care, and then choose the option that fits that moment. A medically true statement can still be the wrong answer if it belongs to a different setting, time, or stage.",
+      "faq": [
+        {"q": "What should I identify before choosing an answer?", "a": "Identify what the last line asks, then use the whole stem to determine the setting, stability, urgency, and current stage of care."},
+        {"q": "Why can a medically true option still be wrong?", "a": "It may describe the correct disease but answer the wrong task, occur too early or too late, or fit a different setting."},
+        {"q": "Does an emergency setting always mean treat first?", "a": "No. Instability and urgency change priorities, but the exact answer still depends on the stem, the task, and the available options."},
+        {"q": "How should I prepare for changing exam-day rules?", "a": "Use current official USMLE practice materials and check the official exam-day instructions for your own test date."}
+      ],
+      "sources": [
+        "[USMLE Exam Day Information](https://www.usmle.org/what-to-know/exam-day-information).",
+        "[USMLE Bulletin of Information: Examination Day & Testing](https://www.usmle.org/bulletin-information/examination-day-testing).",
+        "[Preparing for the USMLE](https://www.usmle.org/bulletin-information/prepare-usmle)."
+      ],
+      "related_public_videos": [
+        {"id": "L_5iR-nAwq8", "title": "True Answers Can Still Be Wrong"},
+        {"id": "OeTSrNImQek", "title": "Stabilize Before You Diagnose"},
+        {"id": "QNETlrQI-PY", "title": "Stable Patient? Do Not Jump to Treatment"},
+        {"id": "UykdXS6jFWg", "title": "True Fact, Wrong Moment"}
+      ]
+    },
+    {
+      "slug": "anterior-mediastinal-germ-cell",
+      "visibility": "public",
+      "rights_cleared": true,
+      "medical_qa": "pass",
+      "captions_reviewed": true,
+      "caption_source": "episodes/review/anterior-mediastinal-germ-cell/remotion_colored_captions.srt",
+      "title": "The Anterior Mediastinal Mass Trap: High AFP & beta-hCG",
+      "exam": "USMLE Step 1 / Step 2 CK",
+      "description": "An original clinical-reasoning case on an anterior mediastinal mass, tumor markers, and why elevated AFP identifies a nonseminomatous germ cell tumor rather than pure seminoma.",
+      "video_id": "jvu1F-YpDFw",
+      "youtube_url": "https://youtu.be/jvu1F-YpDFw",
+      "upload_date": "2026-07-06",
+      "reviewed_date": "2026-07-13",
+      "duration": "PT14M",
+      "quick_answer": "In a young adult with an anterior mediastinal mass, elevated AFP supports a nonseminomatous germ cell tumor. Pure seminoma does not elevate AFP, although beta-hCG may be elevated in some seminomas. The marker pattern outweighs a tempting but nonspecific clue such as night sweats.",
+      "faq": [
+        {"q": "What are the classic anterior mediastinal 4 T's?", "a": "Thymoma, teratoma or germ cell tumor, thyroid tissue, and terrible lymphoma."},
+        {"q": "Which marker separates pure seminoma from nonseminomatous germ cell tumor?", "a": "AFP. Pure seminoma does not elevate AFP; an elevated AFP points to a nonseminomatous component."},
+        {"q": "Why is lymphoma tempting in this case?", "a": "A young adult with a mediastinal mass and night sweats fits a lymphoma pattern, but that pattern does not explain the AFP and beta-hCG results."},
+        {"q": "Why can beta-hCG be linked with gynecomastia?", "a": "An hCG-secreting germ cell tumor can alter the estrogen-to-androgen balance and produce gynecomastia."}
+      ],
+      "sources": [
+        "[Anterior Mediastinal Mass, StatPearls](https://www.ncbi.nlm.nih.gov/books/NBK546608/) (PMID 31536215).",
+        "[Mediastinal Germ Cell Tumors, StatPearls](https://www.ncbi.nlm.nih.gov/books/NBK563232/) (PMID 33085379).",
+        "[Testicular Cancer, StatPearls](https://www.ncbi.nlm.nih.gov/books/NBK563159/) (PMID 33085306).",
+        "[Testicular Seminoma, StatPearls](https://www.ncbi.nlm.nih.gov/books/NBK448137/) (PMID 28846234).",
+        "[Gynecomastia, Endotext](https://www.ncbi.nlm.nih.gov/books/NBK279105/)."
+      ],
+      "related_public_videos": [
+        {"id": "UhmJLiz-tX4", "title": "Two Clues That Pull Opposite Ways"},
+        {"id": "uVJ-f7NnekA", "title": "Elevated AFP Is a Signature"},
+        {"id": "-5DUT4jinJ8", "title": "Anchor on the Discriminator"},
+        {"id": "dvqEGnqYG1w", "title": "Testes & Klinefelter: Two Free Points"}
+      ]
+    },
+    {
+      "slug": "glucose-transport-mechanism",
+      "visibility": "public",
+      "rights_cleared": true,
+      "medical_qa": "pass",
+      "captions_reviewed": true,
+      "caption_source": "episodes/review/glucose-transport-mechanism/glucose_captions_en.srt",
+      "title": "D vs L Glucose: Which Transport Mechanism?",
+      "exam": "USMLE Step 1 physiology",
+      "description": "An original physiology case using stereoselectivity, saturation, energy use, and gradient direction to identify facilitated diffusion through GLUT4.",
+      "video_id": "BbapK7zWLNk",
+      "youtube_url": "https://youtu.be/BbapK7zWLNk",
+      "upload_date": "2026-07-08",
+      "reviewed_date": "2026-07-13",
+      "duration": "PT16M46S",
+      "quick_answer": "D-glucose entering adipocytes much faster than L-glucose shows stereoselectivity, and a plateau shows saturation; both point to a carrier. Because uptake uses no ATP and does not move glucose uphill, the mechanism is facilitated diffusion through GLUT4 rather than primary active transport or sodium-glucose cotransport.",
+      "faq": [
+        {"q": "Why does D-glucose entering faster than L-glucose imply a carrier?", "a": "The two are mirror images. A chiral protein binding pocket can distinguish their handedness, whereas passive diffusion through the lipid bilayer would not explain strong stereoselectivity."},
+        {"q": "What does the uptake plateau mean?", "a": "A finite number of transporters becomes saturated, producing a maximal transport rate."},
+        {"q": "How does insulin raise glucose uptake in adipocytes?", "a": "Insulin increases the amount of GLUT4 at the cell surface, raising the capacity for facilitated glucose transport."},
+        {"q": "How do GLUT and SGLT differ?", "a": "GLUT proteins mediate facilitated diffusion down a gradient. SGLT proteins use the sodium gradient for secondary active cotransport and can move glucose uphill."}
+      ],
+      "sources": [
+        "Costanzo, Physiology: membrane transport and glucose-transporter physiology.",
+        "Guyton and Hall, Textbook of Medical Physiology: facilitated diffusion, secondary active transport, and insulin-responsive glucose uptake.",
+        "The original vignette and teaching transcript were reviewed under the project's medical-QA and rights rules; no commercial question-bank item is reproduced."
+      ],
+      "related_public_videos": [
+        {"id": "MkQZYLC-Sq8", "title": "Why the Mirror-Image Sugar Can't Get In"},
+        {"id": "daKDI4mKSNc", "title": "Two Families Move Glucose: GLUT vs SGLT"},
+        {"id": "VFor1Oc965Y", "title": "How Insulin Actually Raises Glucose Uptake"},
+        {"id": "u-wrisorsqc", "title": "Classify Any Transporter in Four Questions"}
+      ]
+    },
+    {
+      "slug": "hereditary-fructose-intolerance",
+      "visibility": "public",
+      "rights_cleared": true,
+      "medical_qa": "pass",
+      "captions_reviewed": true,
+      "caption_source": "episodes/review/hereditary-fructose-intolerance/upload_assets/captions_en.srt",
+      "title": "Fruit Juice Made This Baby Sick: Hereditary Fructose Intolerance",
+      "exam": "USMLE Step 1 biochemistry",
+      "description": "An original case using the timing of symptoms after fruit and juice at weaning to identify hereditary fructose intolerance and aldolase B deficiency.",
+      "video_id": "sk32DoUVO0E",
+      "youtube_url": "https://youtu.be/sk32DoUVO0E",
+      "upload_date": "2026-07-10",
+      "reviewed_date": "2026-07-13",
+      "duration": "PT13M53S",
+      "quick_answer": "An infant who remains well on breast milk but develops vomiting, hypoglycemia, jaundice, and hepatomegaly when fruit or juice is introduced has hereditary fructose intolerance from aldolase B deficiency. The dietary timing separates it from classic galactosemia, which appears after milk feeding begins.",
+      "faq": [
+        {"q": "Why was the infant well during exclusive breastfeeding?", "a": "The main sugar in breast milk is lactose, which contains glucose and galactose rather than fructose."},
+        {"q": "Why does aldolase B deficiency cause hypoglycemia and liver injury?", "a": "Fructose-1-phosphate accumulates, traps intracellular phosphate, impairs glucose production pathways, and injures the liver."},
+        {"q": "How is essential fructosuria different?", "a": "Essential fructosuria is caused by fructokinase deficiency and is generally benign, unlike hereditary fructose intolerance."},
+        {"q": "What timing would favor classic galactosemia instead?", "a": "Illness beginning with the first days to weeks of milk feeding would point toward a galactose pathway disorder such as GALT deficiency."}
+      ],
+      "sources": [
+        "[Singh and Sarma, Hereditary fructose intolerance: A comprehensive review](https://pubmed.ncbi.nlm.nih.gov/36052111/) (PMID 36052111; DOI 10.5409/wjcp.v11.i4.321).",
+        "Standard medical-biochemistry references for lactose, fructose and galactose pathways, essential fructosuria, galactokinase deficiency, and classic galactosemia."
+      ],
+      "related_public_videos": [
+        {"id": "LIPjnswOQqs", "title": "Well on Milk, Sick on Fruit"},
+        {"id": "E6QH5Qurd_Y", "title": "Why Aldolase Means Fructose"},
+        {"id": "7c-TGirxS7Q", "title": "Every Sugar by Its Root"}
+      ]
+    }
+  ]
+}

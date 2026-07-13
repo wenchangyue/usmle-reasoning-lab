@@ -11,8 +11,12 @@ Updated: 2026-07-13
 ## Public pages
 
 - [Companion site home](https://wenchangyue.github.io/usmle-reasoning-lab/)
+- [USMLE best-next-step reasoning](https://wenchangyue.github.io/usmle-reasoning-lab/ep/exam-strategy-principles/)
+- [Anterior mediastinal mass and tumor markers](https://wenchangyue.github.io/usmle-reasoning-lab/ep/anterior-mediastinal-germ-cell/)
+- [D- vs L-glucose transport mechanism](https://wenchangyue.github.io/usmle-reasoning-lab/ep/glucose-transport-mechanism/)
+- [Hereditary fructose intolerance and aldolase B](https://wenchangyue.github.io/usmle-reasoning-lab/ep/hereditary-fructose-intolerance/)
 
-Episode pages will be listed after the matching YouTube videos are public. No commercial question-bank or recall content is reproduced.
+Episode pages are published only after the matching YouTube video is public and the source, rights, medical-QA, and caption checks pass. No commercial question-bank or recall content is reproduced.
 
 ## Use
 
