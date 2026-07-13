@@ -1,0 +1,20 @@
+# USMLE Reasoning Lab
+
+> Public companion site for original USMLE teaching videos, with reviewed transcripts, quick answers, Q&A, and sources.
+
+Site: https://wenchangyue.github.io/usmle-reasoning-lab/
+YouTube: https://www.youtube.com/@USMLEReasoningLab
+Author: Wenchang Yue, MD, PhD
+Language: English
+Updated: 2026-07-13
+
+## Public pages
+
+- [Companion site home](https://wenchangyue.github.io/usmle-reasoning-lab/)
+
+Episode pages will be listed after the matching YouTube videos are public. No commercial question-bank or recall content is reproduced.
+
+## Use
+
+- This material is for exam preparation and general medical education.
+- It is not medical advice, a diagnosis, or a substitute for care from a licensed clinician.

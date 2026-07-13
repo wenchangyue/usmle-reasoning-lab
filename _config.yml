@@ -6,6 +6,8 @@ author: Wenchang Yue, MD, PhD
 lang: en
 url: "https://wenchangyue.github.io"
 baseurl: "/usmle-reasoning-lab"
+youtube_channel: "https://www.youtube.com/@USMLEReasoningLab"
+repository_url: "https://github.com/wenchangyue/usmle-reasoning-lab"
 
 collections:
   episodes:
@@ -18,6 +20,9 @@ defaults:
       type: episodes
     values:
       layout: episode
+
+plugins:
+  - jekyll-sitemap
 
 exclude:
   - README.md
