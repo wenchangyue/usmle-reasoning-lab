@@ -1,6 +1,7 @@
 ---
-# Copy this file into _episodes/<slug>.md (drop the leading TEMPLATE-, remove
-# `published: false`) to publish a companion page. Filled by the video pipeline.
+# Copy this file into _episodes/<slug>.md and complete it during SEO/GEO prep.
+# Keep `published: false`: the YouTube uploader replaces it after the private
+# upload returns a stable video ID, then commits and verifies the live page.
 published: false
 layout: episode
 title: "Episode title"

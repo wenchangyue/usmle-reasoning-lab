@@ -1,7 +1,7 @@
 # USMLE Reasoning Lab — companion site
 
-Public, crawlable companion pages (transcript + quick answer + Q&A) for public,
-reviewed long-form videos from
+Crawlable companion pages (transcript + quick answer + Q&A) for rights-cleared,
+medically reviewed long-form videos from
 [USMLE Reasoning Lab](https://www.youtube.com/@USMLEReasoningLab). This is the **GEO
 (Generative Engine Optimization)** surface: AI answer engines (ChatGPT, Perplexity,
 Google AI Overviews) read the **text around a video** — so we host the transcript
@@ -15,16 +15,16 @@ description. See `config/geo_playbook.md` in the main project for the strategy.
 
 ## Add an episode page
 
-1. Confirm that the video is public, rights-cleared, medical-QA-cleared, and
-   that its final caption track has been reviewed. Private and unlisted videos
-   must not be added to this public repository.
+1. Before upload, confirm that the episode is rights-cleared and medical-QA-cleared,
+   and that its final caption track has been reviewed.
 2. Copy `TEMPLATE-episode.md` → `_episodes/<slug>.md`.
-3. Remove `published: false`; fill the front matter (title, video_id, youtube_url,
-   upload_date, duration, description, quick_answer, faq, sources).
+3. Fill the front matter except `video_id`, `youtube_url`, and `upload_date`; keep
+   `published: false`. The YouTube uploader first uploads privately, then fills
+   those fields, publishes the page, updates `llms.txt`, and verifies both links.
 4. Paste the **human-reviewed transcript** (same text as the uploaded YouTube
    caption track) into the body under `## Transcript`.
-5. Commit + push; GitHub Pages rebuilds automatically. Then add the companion
-   URL to the matching YouTube description without changing video visibility.
+5. Put the stable companion URL in the YouTube description draft. The uploader
+   commits and pushes the page after it receives the private video's stable ID.
 
 ## Notes
 
