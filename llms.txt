@@ -6,16 +6,16 @@ Site: https://wenchangyue.github.io/usmle-reasoning-lab/
 YouTube: https://www.youtube.com/@USMLEReasoningLab
 Author: Wenchang Yue, MD, PhD
 Language: English
-Updated: 2026-07-13
-
+Updated: 2026-07-15
 ## Companion pages
 
 <!-- AUTO-COMPANION-PAGES:START -->
-- [Companion site home](https://wenchangyue.github.io/usmle-reasoning-lab/)
-- [USMLE best-next-step reasoning](https://wenchangyue.github.io/usmle-reasoning-lab/ep/exam-strategy-principles/)
+- [Alcoholic Hypoglycemia: Why Alcohol Suppresses Gluconeogenesis](https://wenchangyue.github.io/usmle-reasoning-lab/ep/alcoholic-hypoglycemia/)
 - [Anterior mediastinal mass and tumor markers](https://wenchangyue.github.io/usmle-reasoning-lab/ep/anterior-mediastinal-germ-cell/)
+- [Companion site home](https://wenchangyue.github.io/usmle-reasoning-lab/)
 - [D- vs L-glucose transport mechanism](https://wenchangyue.github.io/usmle-reasoning-lab/ep/glucose-transport-mechanism/)
 - [Hereditary fructose intolerance and aldolase B](https://wenchangyue.github.io/usmle-reasoning-lab/ep/hereditary-fructose-intolerance/)
+- [USMLE best-next-step reasoning](https://wenchangyue.github.io/usmle-reasoning-lab/ep/exam-strategy-principles/)
 <!-- AUTO-COMPANION-PAGES:END -->
 
 Episode pages are finalized as soon as a private YouTube upload returns its stable video ID. Rights, medical-QA, and caption checks must pass before upload; public visibility remains a separate owner action. No commercial question-bank or recall content is reproduced.
