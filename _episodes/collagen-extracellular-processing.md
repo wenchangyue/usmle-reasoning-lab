@@ -1,15 +1,16 @@
 ---
 published: true
 layout: episode
-title: "Collagen Synthesis: Which Step Is Extracellular? (Ehlers-Danlos)"
+title: "Ehlers-Danlos Syndrome: The Collagen Synthesis Defect (ADAMTS-2)"
 slug: collagen-extracellular-processing
 exam: "USMLE Step 1 · Biochemistry"
 description: >-
-  A toddler with fragile, hyperextensible skin and a biopsy showing a defect in the
-  EXTRACELLULAR processing of collagen: the impaired step is N-terminal propeptide
-  removal — the only extracellular step among the options. It is the cut that turns
-  procollagen into packable tropocollagen (procollagen N-proteinase / ADAMTS-2 deficiency,
-  Ehlers-Danlos, dermatosparaxis type).
+  Ehlers-Danlos syndrome, dermatosparaxis type, is a defect in the EXTRACELLULAR processing
+  of collagen: the enzyme ADAMTS-2 (procollagen N-proteinase) fails to remove the N-terminal
+  propeptide, so collagen is made and secreted but never trimmed into strong fibrils — giving
+  fragile, hyperextensible skin, easy bruising, and hernias. On USMLE Step 1, the biopsy phrase
+  "extracellular processing" is the clue that selects propeptide removal over the intracellular
+  steps.
 video_id: nc76bB1tcXo
 upload_date: 2026-07-20
 reviewed_date: 2026-07-20
