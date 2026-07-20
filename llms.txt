@@ -6,12 +6,13 @@ Site: https://wenchangyue.github.io/usmle-reasoning-lab/
 YouTube: https://www.youtube.com/@USMLEReasoningLab
 Author: Wenchang Yue, MD, PhD
 Language: English
-Updated: 2026-07-15
+Updated: 2026-07-20
 ## Companion pages
 
 <!-- AUTO-COMPANION-PAGES:START -->
 - [Alcoholic Hypoglycemia: Why Alcohol Suppresses Gluconeogenesis](https://wenchangyue.github.io/usmle-reasoning-lab/ep/alcoholic-hypoglycemia/)
 - [Anterior mediastinal mass and tumor markers](https://wenchangyue.github.io/usmle-reasoning-lab/ep/anterior-mediastinal-germ-cell/)
+- [Collagen Synthesis: Which Step Is Extracellular? (Ehlers-Danlos)](https://wenchangyue.github.io/usmle-reasoning-lab/ep/collagen-extracellular-processing/)
 - [Companion site home](https://wenchangyue.github.io/usmle-reasoning-lab/)
 - [D- vs L-glucose transport mechanism](https://wenchangyue.github.io/usmle-reasoning-lab/ep/glucose-transport-mechanism/)
 - [Hereditary fructose intolerance and aldolase B](https://wenchangyue.github.io/usmle-reasoning-lab/ep/hereditary-fructose-intolerance/)
