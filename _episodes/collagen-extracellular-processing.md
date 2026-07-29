@@ -12,8 +12,8 @@ description: >-
   "extracellular processing" is the clue that selects propeptide removal over the intracellular
   steps.
 video_id: nc76bB1tcXo
-upload_date: 2026-07-20
-reviewed_date: 2026-07-20
+upload_date: 2026-07-29
+reviewed_date: 2026-07-29
 duration: PT11M5S
 quick_answer: >-
   The impaired step is **N-terminal propeptide removal** — the only **extracellular** step
