@@ -6,7 +6,7 @@ Site: https://wenchangyue.github.io/usmle-reasoning-lab/
 YouTube: https://www.youtube.com/@USMLEReasoningLab
 Author: Wenchang Yue, MD, PhD
 Language: English
-Updated: 2026-07-20
+Updated: 2026-07-30
 ## Companion pages
 
 <!-- AUTO-COMPANION-PAGES:START -->
@@ -16,6 +16,7 @@ Updated: 2026-07-20
 - [Companion site home](https://wenchangyue.github.io/usmle-reasoning-lab/)
 - [D- vs L-glucose transport mechanism](https://wenchangyue.github.io/usmle-reasoning-lab/ep/glucose-transport-mechanism/)
 - [Hereditary fructose intolerance and aldolase B](https://wenchangyue.github.io/usmle-reasoning-lab/ep/hereditary-fructose-intolerance/)
+- [Primary Carnitine Deficiency: The OCTN2 Transporter Defect (SLC22A5)](https://wenchangyue.github.io/usmle-reasoning-lab/ep/carnitine-deficiency/)
 - [USMLE best-next-step reasoning](https://wenchangyue.github.io/usmle-reasoning-lab/ep/exam-strategy-principles/)
 <!-- AUTO-COMPANION-PAGES:END -->
 
