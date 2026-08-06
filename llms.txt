@@ -6,7 +6,7 @@ Site: https://wenchangyue.github.io/usmle-reasoning-lab/
 YouTube: https://www.youtube.com/@USMLEReasoningLab
 Author: Wenchang Yue, MD, PhD
 Language: English
-Updated: 2026-08-04
+Updated: 2026-08-06
 ## Companion pages
 
 <!-- AUTO-COMPANION-PAGES:START -->
@@ -15,6 +15,7 @@ Updated: 2026-08-04
 - [Collagen Synthesis: Which Step Is Extracellular? (Ehlers-Danlos)](https://wenchangyue.github.io/usmle-reasoning-lab/ep/collagen-extracellular-processing/)
 - [Companion site home](https://wenchangyue.github.io/usmle-reasoning-lab/)
 - [D- vs L-glucose transport mechanism](https://wenchangyue.github.io/usmle-reasoning-lab/ep/glucose-transport-mechanism/)
+- [Familial Hypocalciuric Hypercalcemia (FHH): Why the Urine Calcium Decides](https://wenchangyue.github.io/usmle-reasoning-lab/ep/familial-hypocalciuric-hypercalcemia/)
 - [G Protein-Coupled Receptors: Gs, Gi, Gq and the IP3 / DAG Pathway](https://wenchangyue.github.io/usmle-reasoning-lab/ep/gpcr-signaling/)
 - [Hereditary fructose intolerance and aldolase B](https://wenchangyue.github.io/usmle-reasoning-lab/ep/hereditary-fructose-intolerance/)
 - [Primary Carnitine Deficiency: The OCTN2 Transporter Defect (SLC22A5)](https://wenchangyue.github.io/usmle-reasoning-lab/ep/carnitine-deficiency/)
