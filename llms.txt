@@ -6,7 +6,7 @@ Site: https://wenchangyue.github.io/usmle-reasoning-lab/
 YouTube: https://www.youtube.com/@USMLEReasoningLab
 Author: Wenchang Yue, MD, PhD
 Language: English
-Updated: 2026-08-16
+Updated: 2026-09-02
 ## Companion pages
 
 <!-- AUTO-COMPANION-PAGES:START -->
@@ -19,6 +19,7 @@ Updated: 2026-08-16
 - [Familial Hypocalciuric Hypercalcemia (FHH): Why the Urine Calcium Decides](https://wenchangyue.github.io/usmle-reasoning-lab/ep/familial-hypocalciuric-hypercalcemia/)
 - [G Protein-Coupled Receptors: Gs, Gi, Gq and the IP3 / DAG Pathway](https://wenchangyue.github.io/usmle-reasoning-lab/ep/gpcr-signaling/)
 - [Hereditary fructose intolerance and aldolase B](https://wenchangyue.github.io/usmle-reasoning-lab/ep/hereditary-fructose-intolerance/)
+- [Porphyria Cutanea Tarda: UROD, Porphyrins & Photosensitive Blisters](https://wenchangyue.github.io/usmle-reasoning-lab/ep/porphyria-cutanea-tarda-urod/)
 - [Primary Carnitine Deficiency: The OCTN2 Transporter Defect (SLC22A5)](https://wenchangyue.github.io/usmle-reasoning-lab/ep/carnitine-deficiency/)
 - [Succinate Dehydrogenase (SDH): Vmax, Km & Competitive Inhibition](https://wenchangyue.github.io/usmle-reasoning-lab/ep/sdh-malate-kinetics/)
 - [USMLE best-next-step reasoning](https://wenchangyue.github.io/usmle-reasoning-lab/ep/exam-strategy-principles/)
