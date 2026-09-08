@@ -9,7 +9,9 @@ description: >-
   urinary ammonium excretion, and new bicarbonate generation, with nephron anatomy and
   a comparison of renal acid handling and hepatic urea synthesis.
 video_id: uuN_-wX53iU
+youtube_url: https://youtu.be/uuN_-wX53iU
 upload_date: 2026-09-08
+reviewed_date: 2026-09-08
 duration: PT24M43S
 quick_answer: >-
   Glutamine is the principal substrate for increased renal ammoniagenesis during metabolic
