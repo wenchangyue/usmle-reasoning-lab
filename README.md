@@ -34,4 +34,4 @@ description. See `config/geo_playbook.md` in the main project for the strategy.
 - Content is original teaching material; no commercial question-bank or recall
   content is reproduced. Educational use only.
 
-Local path: `~/usmle-reasoning-lab`
+Local clone: `sites/usmle-reasoning-lab/` inside the main USMLE-YouTube project folder.
