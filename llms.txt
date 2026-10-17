@@ -6,7 +6,7 @@ Site: https://wenchangyue.github.io/usmle-reasoning-lab/
 YouTube: https://www.youtube.com/@USMLEReasoningLab
 Author: Wenchang Yue, MD, PhD
 Language: English
-Updated: 2026-09-08
+Updated: 2026-10-17
 ## Companion pages
 
 <!-- AUTO-COMPANION-PAGES:START -->
@@ -18,6 +18,7 @@ Updated: 2026-09-08
 - [D- vs L-glucose transport mechanism](https://wenchangyue.github.io/usmle-reasoning-lab/ep/glucose-transport-mechanism/)
 - [Familial Hypocalciuric Hypercalcemia (FHH): Why the Urine Calcium Decides](https://wenchangyue.github.io/usmle-reasoning-lab/ep/familial-hypocalciuric-hypercalcemia/)
 - [G Protein-Coupled Receptors: Gs, Gi, Gq and the IP3 / DAG Pathway](https://wenchangyue.github.io/usmle-reasoning-lab/ep/gpcr-signaling/)
+- [G6PD Deficiency: What Is NADPH For?](https://wenchangyue.github.io/usmle-reasoning-lab/ep/g6pd-deficiency/)
 - [Hereditary fructose intolerance and aldolase B](https://wenchangyue.github.io/usmle-reasoning-lab/ep/hereditary-fructose-intolerance/)
 - [Metabolic Acidosis: How Kidneys Use Glutamine](https://wenchangyue.github.io/usmle-reasoning-lab/ep/renal-ammoniagenesis-glutamine/)
 - [Porphyria Cutanea Tarda: UROD, Porphyrins & Photosensitive Blisters](https://wenchangyue.github.io/usmle-reasoning-lab/ep/porphyria-cutanea-tarda-urod/)
