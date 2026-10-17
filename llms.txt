@@ -26,6 +26,7 @@ Updated: 2026-10-17
 - [Succinate Dehydrogenase (SDH): Vmax, Km & Competitive Inhibition](https://wenchangyue.github.io/usmle-reasoning-lab/ep/sdh-malate-kinetics/)
 - [Tetrahydrobiopterin (BH4) Deficiency: Why Serotonin Falls](https://wenchangyue.github.io/usmle-reasoning-lab/ep/tetrahydrobiopterin-deficiency-serotonin/)
 - [USMLE best-next-step reasoning](https://wenchangyue.github.io/usmle-reasoning-lab/ep/exam-strategy-principles/)
+- [Which Cell Does the Antibody Call? Fc, NK Cells and ADCC](https://wenchangyue.github.io/usmle-reasoning-lab/ep/antibody-fc-nk-adcc/)
 <!-- AUTO-COMPANION-PAGES:END -->
 
 Episode pages are finalized as soon as a private YouTube upload returns its stable video ID. Rights, medical-QA, and caption checks must pass before upload; public visibility remains a separate owner action. No commercial question-bank or recall content is reproduced.
