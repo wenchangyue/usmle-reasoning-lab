@@ -27,6 +27,7 @@ Updated: 2026-10-18
 - [Tetrahydrobiopterin (BH4) Deficiency: Why Serotonin Falls](https://wenchangyue.github.io/usmle-reasoning-lab/ep/tetrahydrobiopterin-deficiency-serotonin/)
 - [USMLE best-next-step reasoning](https://wenchangyue.github.io/usmle-reasoning-lab/ep/exam-strategy-principles/)
 - [Which Cell Does the Antibody Call? Fc, NK Cells and ADCC](https://wenchangyue.github.io/usmle-reasoning-lab/ep/antibody-fc-nk-adcc/)
+- [Which Lymph Node Structure Never Forms? X-Linked Agammaglobulinemia and Germinal Centers](https://wenchangyue.github.io/usmle-reasoning-lab/ep/agammaglobulinemia-lymph-node-germinal-center/)
 - [Why Does PD-1 Blockade Work Here? Mismatch Repair, Neoantigens and MHC Class I](https://wenchangyue.github.io/usmle-reasoning-lab/ep/mmr-deficiency-checkpoint-neoantigen/)
 <!-- AUTO-COMPANION-PAGES:END -->
 
