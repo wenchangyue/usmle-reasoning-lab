@@ -6,7 +6,7 @@ Site: https://wenchangyue.github.io/usmle-reasoning-lab/
 YouTube: https://www.youtube.com/@USMLEReasoningLab
 Author: Wenchang Yue, MD, PhD
 Language: English
-Updated: 2026-10-17
+Updated: 2026-10-18
 ## Companion pages
 
 <!-- AUTO-COMPANION-PAGES:START -->
@@ -27,6 +27,7 @@ Updated: 2026-10-17
 - [Tetrahydrobiopterin (BH4) Deficiency: Why Serotonin Falls](https://wenchangyue.github.io/usmle-reasoning-lab/ep/tetrahydrobiopterin-deficiency-serotonin/)
 - [USMLE best-next-step reasoning](https://wenchangyue.github.io/usmle-reasoning-lab/ep/exam-strategy-principles/)
 - [Which Cell Does the Antibody Call? Fc, NK Cells and ADCC](https://wenchangyue.github.io/usmle-reasoning-lab/ep/antibody-fc-nk-adcc/)
+- [Why Does PD-1 Blockade Work Here? Mismatch Repair, Neoantigens and MHC Class I](https://wenchangyue.github.io/usmle-reasoning-lab/ep/mmr-deficiency-checkpoint-neoantigen/)
 <!-- AUTO-COMPANION-PAGES:END -->
 
 Episode pages are finalized as soon as a private YouTube upload returns its stable video ID. Rights, medical-QA, and caption checks must pass before upload; public visibility remains a separate owner action. No commercial question-bank or recall content is reproduced.
